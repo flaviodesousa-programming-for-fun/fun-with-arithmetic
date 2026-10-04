@@ -18,11 +18,11 @@ Given a list of positive integers, calculate:
 
 Concatenate those five results in that order to form the final number. The digit counts concern individual decimal digits, not the parity of each input value.
 
-See the [challenge and my contribution](https://web.archive.org/web/20261004/https://stackoverflow.com/beta/challenges/80003558/80007730) for the full specification.
+See the [challenge and my contribution](https://web.archive.org/web/20260918133516/https://stackoverflow.com/beta/challenges/80003558/challenge-23-fun-with-arithmetic)  for the full specification.
 
 ## Run it in your browser
 
-The program and its input data are contained in [`SOCHAL23.BAS`](https://web.archive.org/web/20261004/https://github.com/flaviodesousa-programming-for-fun/fun-with-arithmetic/blob/main/SOCHAL23.BAS). No separate input file is needed.
+The program and its input data are contained in [`SOCHAL23.BAS`](https://github.com/flaviodesousa-programming-for-fun/fun-with-arithmetic/blob/main/SOCHAL23.BAS). No separate input file is needed.
 
 1. Open `SOCHAL23.BAS` on GitHub and use **Copy raw file**, or open **Raw** and copy the complete listing. Include all the numbered `DATA` lines.
 2. Open the [TRS-80 Model III emulator](https://web.archive.org/web/20261004114603/https://github.com/cschweda/trs80-emulator).
