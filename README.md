@@ -25,7 +25,7 @@ See the [challenge and my contribution](https://web.archive.org/web/20261004/htt
 The program and its input data are contained in [`SOCHAL23.BAS`](https://web.archive.org/web/20261004/https://github.com/flaviodesousa-programming-for-fun/fun-with-arithmetic/blob/main/SOCHAL23.BAS). No separate input file is needed.
 
 1. Open `SOCHAL23.BAS` on GitHub and use **Copy raw file**, or open **Raw** and copy the complete listing. Include all the numbered `DATA` lines.
-2. Open the [TRS-80 Model III emulator](https://web.archive.org/web/20261004/https://trs80emu.netlify.app/).
+2. Open the [TRS-80 Model III emulator](https://web.archive.org/web/20261004114603/https://github.com/cschweda/trs80-emulator).
 3. Focus the emulator's keyboard input. Press **Enter** at the `Cass?` and `Memory Size?` prompts to reach `READY`.
 4. If another BASIC program is already loaded, enter `NEW` and press **Enter** to clear it.
 5. Open **MACHINE → Paste BASIC from clipboard**. Allow clipboard access if your browser requests it. Wait for the simulated typing to finish before entering another command.
