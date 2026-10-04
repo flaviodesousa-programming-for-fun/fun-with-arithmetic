@@ -33,6 +33,8 @@ The program and its input data are contained in [`SOCHAL23.BAS`](https://web.arc
 
 The emulator also offers **Turbo** to accelerate execution.
 
+My friend [Ivan Souza](https://ivansouza.github.io) made also an emulator with the code ready to [load and run](https://ivansouza.github.io/Psico/trs80).
+
 ### Expected output
 
 ```text
