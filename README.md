@@ -4,7 +4,7 @@ An implementation of Stack Overflow's **Fun with Arithmetic** challenge in **TRS
 
 The arithmetic looked more like a chore than a challenge, so I added an unnecessary constraint: use the technology I worked with as a teenager in my first job. This repository records the resulting experiment, including the awkward bits and wrong jumps.
 
-Read the story: **[Fun with Arithmetic, the 1980s Way](https://flaviodesousa.com/fun-with-arithmetic-the-1980s-way/)**.
+Read the story: **[Fun with Arithmetic, the 1980s Way](https://web.archive.org/web/20261004/https://flaviodesousa.com/fun-with-arithmetic-the-1980s-way/)**.
 
 ## The challenge
 
@@ -18,14 +18,14 @@ Given a list of positive integers, calculate:
 
 Concatenate those five results in that order to form the final number. The digit counts concern individual decimal digits, not the parity of each input value.
 
-See the [challenge and my contribution](https://stackoverflow.com/beta/challenges/80003558/80007730) for the full specification.
+See the [challenge and my contribution](https://web.archive.org/web/20261004/https://stackoverflow.com/beta/challenges/80003558/80007730) for the full specification.
 
 ## Run it in your browser
 
-The program and its input data are contained in [`SOCHAL23.BAS`](SOCHAL23.BAS). No separate input file is needed.
+The program and its input data are contained in [`SOCHAL23.BAS`](https://web.archive.org/web/20261004/https://github.com/flaviodesousa-programming-for-fun/fun-with-arithmetic/blob/main/SOCHAL23.BAS). No separate input file is needed.
 
 1. Open `SOCHAL23.BAS` on GitHub and use **Copy raw file**, or open **Raw** and copy the complete listing. Include all the numbered `DATA` lines.
-2. Open the [TRS-80 Model III emulator](https://trs80emu.netlify.app/).
+2. Open the [TRS-80 Model III emulator](https://web.archive.org/web/20261004/https://trs80emu.netlify.app/).
 3. Focus the emulator's keyboard input. Press **Enter** at the `Cass?` and `Memory Size?` prompts to reach `READY`.
 4. If another BASIC program is already loaded, enter `NEW` and press **Enter** to clear it.
 5. Open **MACHINE → Paste BASIC from clipboard**. Allow clipboard access if your browser requests it. Wait for the simulated typing to finish before entering another command.
@@ -74,10 +74,10 @@ This is an experiment with a specific dataset and an old language, rather than a
 
 ## Follow the experiment
 
-The [commit history](https://github.com/flaviodesousa-programming-for-fun/fun-with-arithmetic/commits/main/) records the progression from loading and sorting the data to calculating the statistics, counting digits, cleaning up, and correcting the jumps.
+The [commit history](https://web.archive.org/web/20261004/https://github.com/flaviodesousa-programming-for-fun/fun-with-arithmetic/commits/main/) records the progression from loading and sorting the data to calculating the statistics, counting digits, cleaning up, and correcting the jumps.
 
-For the personal journey behind the code, see the [blog article](https://flaviodesousa.com/fun-with-arithmetic-the-1980s-way/).
+For the personal journey behind the code, see the [blog article](https://web.archive.org/web/20261004/https://flaviodesousa.com/fun-with-arithmetic-the-1980s-way/).
 
 ## License
 
-This repository uses **CC0 1.0 Universal**. See [`LICENSE`](LICENSE).
+This repository uses **CC0 1.0 Universal**. See [`LICENSE`](https://web.archive.org/web/20261004/https://github.com/flaviodesousa-programming-for-fun/fun-with-arithmetic/blob/main/LICENSE).
